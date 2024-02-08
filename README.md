@@ -1,11 +1,2 @@
-# Targets May 2024
-
-Sgpa —> 3.4
-
-Codeforces Rating —> 1500+
-
-Projects —> Swiftly (80-90%),  Electronics Project
-
-Learnings —> Docker, ML
-
-`npm rundev`
+# MIPS_Pipelined_Processor
+Made a processor design  in python consisting of pipeline and forwarding with control units and control signals
