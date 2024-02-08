@@ -7,3 +7,5 @@ Codeforces Rating —> 1500+
 Projects —> Swiftly (80-90%),  Electronics Project
 
 Learnings —> Docker, ML
+
+`npm rundev`
